@@ -32,3 +32,4 @@ Now, you *could* be done here in order to use ffaudIO. But you might as well add
 
 On line 12 of [ffaudIO.py](ffaudIO.py#L12), set the `FFMPEG_CMD` variable to the path to your ffmpeg executable. Or, if typing `ffmpeg` works at your command prompt, then just set `FFMPEG_CMD` to `ffmpeg`; your OS already knows where to find it.
 
+*The rest of this README will be completed sometime soon.*
